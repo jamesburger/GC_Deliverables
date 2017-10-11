@@ -87,10 +87,6 @@ public class DeliverableOne {
 		 
 			
 		}catch (Exception e) {
-			//if ((convertOne < 100 || convertOne > 999) || (convertTwo < 100 || convertTwo > 999) ) {
-				//System.out.println("ERROR");
-			//}
-			//else {
 			System.out.println("ERROR");
 			}
 		}
